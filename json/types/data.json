@@ -1,0 +1,10 @@
+{
+  "StringField": "String2",
+  "Number": 20,
+  "Flag": true,
+  "Arr": [],
+  "InnerStruct":
+  {
+    "StringField": "String"
+  }
+}

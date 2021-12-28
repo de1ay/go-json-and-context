@@ -1,0 +1,20 @@
+{
+  "stringField": "December",
+  "number": 2021,
+  "floatNumber": 2021.12,
+  "flag": true,
+  "array": [
+    "January",
+    "February",
+    "March"
+  ],
+  "object": {
+    "field": "value"
+  },
+  "arrayOfObjects": [
+    {
+      "field": "value"
+    }
+  ],
+  "null": null
+}

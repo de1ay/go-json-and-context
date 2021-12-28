@@ -1,0 +1,8 @@
+{
+  "os": {
+    "Windows": "Windows OS",
+    "Mac": "OSX",
+    "Linux": "Ubuntu"
+  },
+  "compilers": "gcc"
+}
